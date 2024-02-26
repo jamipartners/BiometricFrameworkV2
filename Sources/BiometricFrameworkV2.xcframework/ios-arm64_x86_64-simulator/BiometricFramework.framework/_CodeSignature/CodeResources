@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		fbidH23eDrt8/Z312AxmS9kcaMY=
+		BXgccOgg+SoIFsYeD6n5axlkT98=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XRx52sDoAF247353EmS0VlD0Jls=
+		UZaGiEMaskWPr/wV2edn/pAmWFY=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,19 +74,19 @@
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XRx52sDoAF247353EmS0VlD0Jls=
+		UZaGiEMaskWPr/wV2edn/pAmWFY=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		39Xw7arByXyGN8zMoSBQ2RVgFn4=
+		zPEaz5jtuT1/9zvrwNA7bF3RoKo=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		fbidH23eDrt8/Z312AxmS9kcaMY=
+		BXgccOgg+SoIFsYeD6n5axlkT98=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Xpntpex4gMzJG7OybjDkUc7zrcw=
+		Xwj6RMOtzNpGerEmdODieA6OesI=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Xpntpex4gMzJG7OybjDkUc7zrcw=
+		Xwj6RMOtzNpGerEmdODieA6OesI=
 		</data>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sPpWUJ4zwmmTdPR3Nnt5F9EGrGY=
+		VfCIuJYPQ7cycWwuLnpOSFPFB3c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -210,14 +210,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FNQvacKJXK8dC2xkvZPOGC9qWMO0EV4brD0NdDCWOZc=
+			LEC2oChXQ7rzyi+WyiqjL5atzo/igC3jPpmeNgohfpo=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHMb7aatm04HYOBRC66C7cPKpgiSnObAdkawhtN+PFQ=
+			vHj1EcmYj4o9Q6v6mDO69qOIvmdjJcezwSYGCiSRGgo=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -231,28 +231,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHMb7aatm04HYOBRC66C7cPKpgiSnObAdkawhtN+PFQ=
+			vHj1EcmYj4o9Q6v6mDO69qOIvmdjJcezwSYGCiSRGgo=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rnWahDZ/YxgUvWng8FPeSa5ZIkzkk1JuGyfhLVhnqh0=
+			0ijGvCp13fYn6REbl2I36Yor8OQhDC/KJxFEl0oKU9c=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FNQvacKJXK8dC2xkvZPOGC9qWMO0EV4brD0NdDCWOZc=
+			LEC2oChXQ7rzyi+WyiqjL5atzo/igC3jPpmeNgohfpo=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zRzF2S1kizIjJ6cNztZlTB+IlSBzcZnS1llo+kGKy9g=
+			FNvx5WbzEXS0DXmoqigXruUkVuPpr7Aoga+fc5SY0ew=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -266,14 +266,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zRzF2S1kizIjJ6cNztZlTB+IlSBzcZnS1llo+kGKy9g=
+			FNvx5WbzEXS0DXmoqigXruUkVuPpr7Aoga+fc5SY0ew=
 			</data>
 		</dict>
 		<key>Modules/BiometricFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VD+AoAnfoS8yz+LddzBMju4gCnQiMZWRqVQdmaJrLNc=
+			RWBSw7bPuEM/D0TprjVljLG7nnz3ffkLMf66rSedsBk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
